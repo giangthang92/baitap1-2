@@ -1,0 +1,19 @@
+{
+  "name": "baitap1-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/giangthang92/baitap1-2.git"
+  },
+  "author": "giang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/giangthang92/baitap1-2/issues"
+  },
+  "homepage": "https://github.com/giangthang92/baitap1-2#readme"
+}
